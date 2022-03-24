@@ -9,11 +9,13 @@ while True:
         y = str(input('Você deseja continuar? [S/N]')).upper().strip()
     if y == 'N':
         break
+
 x.sort(reverse=True)
+
 print(f'Você digitou {len(x)} elementos.')
 print(f'Os valores em ordem decrescente são {x}')
+
 if 5 in x:
    print('O valor 5 faz parte da lista!')
 else:
     print('O valor 5 não faz parte da lista!')
-
