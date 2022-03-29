@@ -1,6 +1,6 @@
 #Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 x = int(input('Digite o primeiro número: '))
-y = int(input('Digite o segundo número: '))
+y = int(input('Digite o segundo número: ')) 
 z = int(input('Digite o terceiro número: '))
 if x > y and x > z:
     maior = x
