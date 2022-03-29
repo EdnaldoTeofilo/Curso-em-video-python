@@ -3,7 +3,7 @@
 x = int(input('Digite um número: '))    
 a = 'S'
 y = 0
-z = 0
+z = 0 
 ma = x
 me = x
 while a == 'S':
