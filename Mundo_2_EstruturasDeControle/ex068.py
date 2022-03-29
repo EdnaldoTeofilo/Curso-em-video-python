@@ -1,7 +1,7 @@
 #Faça um programa que jogue par ou ímpar com o computador.
 #O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
 import random
-print ('='*30)
+print ('='*30) 
 print ('Jogar ìmpar ou par :)')
 print ('='*30)
 a = c = 0
