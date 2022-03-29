@@ -3,7 +3,7 @@
 x = int(input('Digite um número [999 para parar]: '))
 y = 0
 z = 0
-while x != 999:
+while x != 999: 
     y += x
     z += 1
     x = int(input('Digite um número: '))
