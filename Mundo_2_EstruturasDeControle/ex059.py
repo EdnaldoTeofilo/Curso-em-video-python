@@ -5,7 +5,7 @@ a = 0
 x = int(input('Digite o primeiro valor:'))
 y = int(input('Digite o segundo valor:'))
 c = 0
-while c != 5:
+while c != 5: 
     print('[1]Somar')
     print('[2]Multiplicar')
     print('[3]Maior')
