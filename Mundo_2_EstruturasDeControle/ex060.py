@@ -2,7 +2,7 @@
 '''from math import factorial'''
 x = int(input('Digite um número para calcular seu fatorial:'))
 '''c = factorial(x)
-print('{}'.format(c))'''
+print('{}'.format(c))''' 
 c = x
 z = 1
 print('Calculado {}! = '.format(x), end = '')
