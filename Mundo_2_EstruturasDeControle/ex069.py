@@ -2,7 +2,7 @@
 #No final, mostre: Quantas pessoas tem mais de 18 anos. Quantos homens foram cadastrados. Quantas mulhers tem menos de 20 anos.
 M = h = m = 0
 while True:
-    print ('='*30)
+    print ('='*30) 
     print ('Cadastre uma pessoa')
     print ('='*30)
     while True:
