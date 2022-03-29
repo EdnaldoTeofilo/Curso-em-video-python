@@ -1,5 +1,5 @@
 #Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores. Considere maioridade com 21 anos.
-from datetime import date
+from datetime import date 
 y = 0
 z = 0
 a = date.today().year
