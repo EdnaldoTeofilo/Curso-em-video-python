@@ -1,5 +1,5 @@
 #Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
-#Média abaixo de 5.0:Reprovado-----Média entre 5.0 e 6.9:Recuperação-----Média 7.0 ou superior:Aprovado
+#Média abaixo de 5.0:Reprovado-----Média entre 5.0 e 6.9:Recuperação-----Média 7.0 ou superior:Aprovado 
 x = float(input('Digite a sua primeira nota:'))
 y = float(input('Digite a sua segunda nota: '))
 m = (x+y)/2
