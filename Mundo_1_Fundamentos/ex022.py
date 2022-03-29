@@ -2,7 +2,7 @@
 #O nome com todas as letras maiúsculas. O nome com todas minúsculas.
 #Quantas letras ao todo(sem considerar espaços). Quantas letras tem o primeiro nome.
 x = str(input('Digite seu nome completo:')).strip() #.strip para remoção de espaços antes e dps do que é escrito
-
+ 
 print ('Seu nome maiuscula é: {}'.format(x.upper()))
 print ('Seu nome minusculo é: {}'.format(x.lower()))
 print ('Seu nome tem {} letras'.format(len(x) - x.count(' ')))
