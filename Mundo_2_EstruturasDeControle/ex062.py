@@ -2,7 +2,7 @@
 x = int(input('Digite o primeiro termo:'))
 y = int(input('Digite a razão da PA:'))
 c = 10
-z = 1
+z = 1 
 a = 10
 while c > 1:
     if c == 10:
