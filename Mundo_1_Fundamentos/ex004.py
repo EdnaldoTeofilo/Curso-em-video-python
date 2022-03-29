@@ -1,5 +1,5 @@
 #Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
-x = input ('Digite algo: ')
+x = input ('Digite algo: ') 
 print('Qual a sua classe: ' ,type(x))
 print('É Letra ou número entre a-z ou 0-9?', x.isalnum())
 print('É Númerico entre 0-9?', x.isnumeric())
