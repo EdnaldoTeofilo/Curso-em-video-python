@@ -3,7 +3,7 @@
 
 a = 0 #idade do homem mais velho 
 b = '' #nome do homem mais velho
-d = 0 #Soma das idades
+d = 0 #Soma das idades 
 e = 0 #Quantas mulheres tem menos de 20 anos
 for c in range (1,5):
     x = str(input('Digite o nome da {}ª pessoa:'.format(c))).strip()
