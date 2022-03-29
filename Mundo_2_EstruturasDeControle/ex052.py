@@ -1,4 +1,4 @@
-#Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+#Faça um programa que leia um número inteiro e diga se ele é ou não um número primo. 
 x = int(input('Digite um número:'))
 y = 1
 z = 0
