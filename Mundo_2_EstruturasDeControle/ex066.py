@@ -3,7 +3,7 @@
 y = z = 0
 while True:
     x = int(input('Digite um número: '))
-    if x == 999:
+    if x == 999: 
         break
     y += x
     z += 1
