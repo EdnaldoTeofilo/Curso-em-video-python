@@ -1,6 +1,6 @@
 #Refaça o Desafio 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 #-Equilátero: todos os lados iguais ==== -Isósceles: dois lado iguais ==== -Escaleno: todos os lados diferentes
-#Exercício35 = Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+#Exercício35 = Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo. 
 
 x = int(input('Digite o primeiro segmento: '))
 y = int(input('Digite o segundo segmneto: '))
