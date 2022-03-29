@@ -4,7 +4,7 @@
 print ('='*30)
 print ('Tabuada de multiplicação')
 print ('='*30)
-while True:
+while True: 
     x = int(input('Digite um número: '))
     print ('='*30)
     if x < 0:
