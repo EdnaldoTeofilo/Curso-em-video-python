@@ -4,7 +4,7 @@ print ('Sequência de Fibonacci')
 print ('#'*30)
 x = int(input('Quantos termos você deseja ver:'))
 t1 = 0
-t2 = 1
+t2 = 1 
 y = 1
 while y <= x:
     if y == 1:
