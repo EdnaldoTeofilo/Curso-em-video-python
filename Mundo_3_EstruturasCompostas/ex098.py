@@ -37,3 +37,4 @@ ini = int(input('Início: '))
 fim = int(input('Fim: '))
 pas = int(input('Passo: '))
 contador(ini, fim, pas)
+ 
