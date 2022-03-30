@@ -4,4 +4,4 @@ def leiaDinheiro(msg):
         if valor.isalpha() or valor == '':
             print(f'\033[1;31mERRO: {valor} é um preço inválido!\033[m')
         else:
-            return float(valor)
+            return float(valor) 
