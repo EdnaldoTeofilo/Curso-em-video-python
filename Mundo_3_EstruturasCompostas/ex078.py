@@ -14,3 +14,4 @@ print(f'\nO menor número digitado foi {min(x)} nas posições ', end ='')
 for i,v in enumerate(x):
     if v == min(x):
         print(f'{i}...', end ='')
+ 
