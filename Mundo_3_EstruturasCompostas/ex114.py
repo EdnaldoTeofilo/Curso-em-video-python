@@ -6,4 +6,4 @@ try:
 except urllib.request.URLError:
     print('O site Google não está acessível no momento.')
 else:
-    print('Consegui abrir o site Google com sucesso!')
+    print('Consegui abrir o site Google com sucesso!') 
