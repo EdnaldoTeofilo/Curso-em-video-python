@@ -9,4 +9,4 @@ else:
     x ['Situação'] = 'Reprovado'
 print('*'*30)
 for k, v in x.items():
-    print(f'{k} é igual a {v}')
+    print(f'{k} é igual a {v}') 
