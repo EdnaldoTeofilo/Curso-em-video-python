@@ -22,4 +22,4 @@ def fatorial(n, show=False):
     return f
 
 #Programa principal
-print(fatorial(5))
+print(fatorial(5)) 
