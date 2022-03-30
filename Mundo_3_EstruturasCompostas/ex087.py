@@ -23,4 +23,4 @@ for l in range (0,3):
     
 print (f'A soma dos valores pares é {p}.')
 print (f'A soma dos valores da terceira coluna é {co}.')   
-print (f'O maior valor da segunda linha é {li}.')
+print (f'O maior valor da segunda linha é {li}.') 
