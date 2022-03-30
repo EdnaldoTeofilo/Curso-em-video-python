@@ -17,4 +17,4 @@ while True:
         break
 print (" :) "*10)    
 x.sort()
-print(f'Os valores digitados em ordem crescente foram: {x}')
+print(f'Os valores digitados em ordem crescente foram: {x}') 
