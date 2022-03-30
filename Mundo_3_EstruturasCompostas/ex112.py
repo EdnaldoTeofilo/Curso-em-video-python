@@ -4,4 +4,4 @@ from utilidadescev import dado
 from utilidadescev import moeda
 
 valor = dado.leiaDinheiro('Digite o preço: R$ ')
-moeda.resumo(valor, 80, 30)
+moeda.resumo(valor, 80, 30) 
