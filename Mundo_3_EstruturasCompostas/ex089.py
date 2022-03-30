@@ -25,3 +25,4 @@ while True:
         print(f'Notas de {x[z][0]} são {x[z][1]}')
 
 print('FIM!')
+ 
