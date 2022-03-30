@@ -12,3 +12,4 @@ def escreva(frase):
 
 #Programa principal
 escreva ('Olá, Mundo!')
+ 
