@@ -22,3 +22,4 @@ def somaPar():
 números = []       
 sorteia()
 somaPar()
+ 
