@@ -26,3 +26,4 @@ print ('=-'*30)
 print(f'Os valores digitados foram {x}')
 print(f'Os valores digitados pares {par}')
 print(f'Os valores digitados ímpares {i}')
+ 
