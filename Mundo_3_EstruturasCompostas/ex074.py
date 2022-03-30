@@ -19,4 +19,4 @@ for cont in range(0, len(x)):
 print(f'O maior número gerado foi: {ma}')
 print(f'O menor número gerado foi: {me}')'''
 print(f'O maior número gerado foi: {max(x)}')
-print(f'O menor número gerado foi: {min(x)}')
+print(f'O menor número gerado foi: {min(x)}') 
