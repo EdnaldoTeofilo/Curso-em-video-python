@@ -8,4 +8,4 @@ while True:
     else:
         break
 print(f'Você digitou o número {x[y]}.')
-
+ 
