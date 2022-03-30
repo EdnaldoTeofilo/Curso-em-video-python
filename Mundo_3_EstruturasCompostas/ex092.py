@@ -12,4 +12,4 @@ if x ['ctps'] != 0:
     x ['salário'] = float(input('Salário: R$'))
     x ['aposentadoria'] = x ['idade'] + ((x ['contratação'] + 35) - datetime.now().year)
 for k,v in x.items():
-    print (f' {k} tem valor {v}')
+    print (f' {k} tem valor {v}') 
