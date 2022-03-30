@@ -12,3 +12,4 @@ y[0].sort()
 y[1].sort()
 print(f'Os valores pares digitados foram: {y[0]}')
 print(f'Os valores ímpares digitados foram: {y[1]}')
+ 
