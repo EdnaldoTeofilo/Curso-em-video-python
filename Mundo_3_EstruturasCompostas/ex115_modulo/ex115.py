@@ -32,4 +32,4 @@ while True:
     else: 
         # Digitou uma opção errada no menu.
        print('\033[31mERRO! Digite uma opcão válida!\033[m')
-    sleep(2)
+    sleep(2) 
