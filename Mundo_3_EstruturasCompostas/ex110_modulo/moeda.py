@@ -27,3 +27,4 @@ def resumo(valor = 0, aumento = 10, diminui = 5):
     print(f'{aumento}% de aumento: \t{aumentar(valor, aumento)}')
     print(f'{diminui}% de redução: \t{diminuir(valor, diminui)}')
     print('-' * 30)
+ 

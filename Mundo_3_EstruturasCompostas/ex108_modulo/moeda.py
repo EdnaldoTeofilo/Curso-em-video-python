@@ -16,3 +16,4 @@ def diminuir(preço = 0, taxa = 0):
 
 def moeda(preço = 0, moeda = 'R$'):
     return f'{moeda}{preço:.2f}'.replace('.', ',')
+ 
