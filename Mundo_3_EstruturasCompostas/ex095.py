@@ -43,4 +43,4 @@ while True:
         for i, g in enumerate(time[busca]['gols']):
             print(f' No jogo {i+1} fez {g} gols.')
     print ('-' * 40)
-print ('FIM!!!')
+print ('FIM!!!') 
