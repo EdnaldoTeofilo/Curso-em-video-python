@@ -33,7 +33,7 @@ for c in pc:
         pesome.append(c[0])
     
 print (f'Foram cadastradas {len(pc)} pessoas.')
-
+ 
 print (f'O maior peso foi de {ma}Kg.', end='')
 print (f'Peso de {pesoma}', end=' ')
 
