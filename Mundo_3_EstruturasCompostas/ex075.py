@@ -15,4 +15,4 @@ else:
 print('Os números pares: ', end='')
 for n in x:
     if n % 2 ==0:
-        print(n, end=' ')
+        print(n, end=' ') 
