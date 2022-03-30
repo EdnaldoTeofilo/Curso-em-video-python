@@ -21,3 +21,4 @@ print(f'O jogador {x ["nome"]} jogou {x ["total"]} partidas.')
 for i in range (1,a + 1):
     print(f'  => Na partida {i}, fez {y[i-1]} gols.')
 print (f'Foi um total de {x ["total"]} gols.')
+ 
