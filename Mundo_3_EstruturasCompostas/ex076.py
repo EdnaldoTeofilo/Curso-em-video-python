@@ -9,4 +9,4 @@ for c in range (0,len(x)):
         print(f'{x[c]:.<30}', end='')
     else:
         print(f'R${x[c]:7.2f}')
-print ('-'*40)
+print ('-'*40) 
