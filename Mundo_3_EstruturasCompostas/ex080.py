@@ -15,4 +15,4 @@ for c in range (0, 5):
 print('=-'*30)
 print(f'Os números digitados em ordem foi: {x}')
 
-    
+     
