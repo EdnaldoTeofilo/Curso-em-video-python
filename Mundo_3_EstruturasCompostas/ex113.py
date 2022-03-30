@@ -24,7 +24,7 @@ def leiaFloat(msg):
             return 0
 
 
-n_int = leiaInt('Digite um valor inteiro: ')
+n_int = leiaInt('Digite um valor inteiro: ') 
 n_float = leiaFloat('Digite um valor flutuante: ')
 
 print(f'Você digitou como valor inteiro o número: {n_int} e como valor flutuante o número: {n_float}')
