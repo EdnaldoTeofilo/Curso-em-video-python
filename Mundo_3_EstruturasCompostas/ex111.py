@@ -4,4 +4,4 @@ Transfira todas as funções utilizadas nos ex107, ex108, ex109 e ex110 para o p
 from utilidadescev import moeda
 
 valor = float(input('Digite o preço: R$ '))
-moeda.resumo(valor, 80, 30)
+moeda.resumo(valor, 80, 30) 
