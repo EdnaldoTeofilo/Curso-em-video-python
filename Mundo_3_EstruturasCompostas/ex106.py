@@ -35,4 +35,4 @@ while True:
         break
     else:
         ajuda(comando)
-título('ATÉ LOGO!', 1)
+título('ATÉ LOGO!', 1) 
