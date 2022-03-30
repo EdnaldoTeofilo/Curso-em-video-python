@@ -34,4 +34,4 @@ def notas(*n, sit = False):
 #Programa principal
 resp = notas(2, 5, 10, 6.5)
 help(notas)
-print(resp)
+print(resp) 
