@@ -13,4 +13,4 @@ print(f'Lista com os times em ordem alfabética: {sorted(x)}')
 print ('='*30)
 print (f'Posição da Chapecoense: {x.index("Chapecoense")}ª')
 
- 
+  
