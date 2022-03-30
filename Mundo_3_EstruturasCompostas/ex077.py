@@ -6,3 +6,4 @@ for c in x:
     for l in c:
         if l in 'AaEeIiOoUu':
             print(l,end =' ')
+ 
