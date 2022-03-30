@@ -15,4 +15,4 @@ def voto(ano):
 #Programa principal
 print('-'*30)
 ano = int(input('Em que ano você nasceu? '))
-print(voto(ano))
+print(voto(ano)) 
