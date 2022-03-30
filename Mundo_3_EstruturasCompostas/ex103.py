@@ -14,3 +14,4 @@ if nome_jogador == '':
     ficha(gols_jogador=gols_jogador)
 else:
     ficha(nome_jogador, gols_jogador)
+ 
